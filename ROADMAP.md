@@ -4,9 +4,22 @@
 
 **The destination:** a living wrestling universe where the matches are thrilling, careers mean something, and the world remembers what you did.
 
-This is a look at the journey, **not a release calendar**. Our plans can grow or change as we discover what makes RINGBOUND fun.
+This is a look at our development journey. We've also published **provisional testing and release windows**, which can shift as we learn what makes RINGBOUND fun and reliable.
 
 ---
+
+## 📅 The estimated road ahead
+
+| When we're aiming | What we're working toward |
+| --- | --- |
+| **Q3 2027** | First small, invite-only private match alpha |
+| **Q1–Q2 2028** | Expanded private career and shared-world testing |
+| **Q3–Q4 2028** | Public testing with meaningful connected gameplay |
+| **Q4 2029** | RINGBOUND 1.0 production release target, with 2030 contingency |
+
+**These are planning estimates, not scheduled launches.** We'll open each stage only when it's ready. **Applications remain closed.**
+
+[🥊 See the full timeline and readiness requirements](TIMELINE.md)
 
 ## 🥊 Chapter One: Make the match matter
 
@@ -56,7 +69,7 @@ We're designing toward:
 
 We share player-friendly updates when there's something meaningful to tell you. A feature being researched, developed, or internally tested doesn't automatically mean it's finished.
 
-**No public launch date or public playtest has been announced.**
+**We have provisional windows for private testing, public testing and 1.0, but no confirmed launch or application opening date.** [View the release outlook.](TIMELINE.md)
 
 [📰 Read the development journal](DEVLOG.md) · [🎟️ Interested in playtesting?](PLAYTESTING.md) · [💬 Join Discord](https://discord.gg/RkmATFsk)
 
