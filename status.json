@@ -1,0 +1,35 @@
+{
+  "project": "RINGBOUND",
+  "tagline": "The Living Wrestling Universe",
+  "updated_at": "2026-10-18",
+  "stage": "In development",
+  "release_date": null,
+  "development_focus": "Deeper, more believable wrestling matches",
+  "areas": [
+    {
+      "name": "Core match simulation",
+      "status": "In active development and testing"
+    },
+    {
+      "name": "Move identity and finishing behavior",
+      "status": "Internal research and testing"
+    },
+    {
+      "name": "Outside-the-ring action",
+      "status": "Internal development and testing"
+    },
+    {
+      "name": "Wrestler careers and progression",
+      "status": "Design and foundation work"
+    },
+    {
+      "name": "Promotions and living history",
+      "status": "Long-term development direction"
+    }
+  ],
+  "links": {
+    "discord": "https://discord.gg/RkmATFsk",
+    "reddit": "https://www.reddit.com/r/ringboundmmo/"
+  },
+  "disclaimer": "Public updates are manually curated. Internal experiments are not completed feature announcements."
+}
