@@ -15,7 +15,7 @@
 
 [💬 **Join our Discord**](https://discord.gg/RkmATFsk) &nbsp;•&nbsp; [🎤 **Meet us on Reddit**](https://www.reddit.com/r/ringboundmmo/)
 
-*In active development · Community open · Public playtesting not yet announced*
+*In active development · Community open · Testing estimates published · Applications closed*
 
 </div>
 
@@ -79,13 +79,21 @@ We're currently focused on making the matches themselves feel believable and exc
 
 **Everything listed is in development or planned.** Research and internal testing do not mean a feature is ready for players.
 
+## 📅 When can I play?
+
+We're planning our first **small, invite-only external match tests for Q3 2027**, broader **public testing for Q3–Q4 2028**, and a **1.0 release target in Q4 2029**. Expanded private career/world testing is provisionally expected in **Q1–Q2 2028**.
+
+These are **estimates, not confirmed dates**. Features must be genuinely ready before each stage opens. **Tester applications are currently closed.**
+
+[**🥊 See the full testing and release outlook**](TIMELINE.md)
+
 📅 [**Explore the roadmap**](ROADMAP.md) &nbsp;·&nbsp; 📰 [**Read the latest ringside update**](DEVLOG.md)
 
 ## 🎟️ Want to be there from the beginning?
 
 We're building a community of wrestling fans, storytellers, and curious future players.
 
-**Interested in testing RINGBOUND when opportunities become available?** Come meet the community and follow the announcements. We haven't announced a public test or opened applications yet.
+**Interested in testing RINGBOUND when opportunities become available?** Come meet the community and follow the announcements. Our [provisional release outlook](TIMELINE.md) explains the expected windows; applications are still closed.
 
 **[🥊 How to follow future playtests](PLAYTESTING.md)**
 
@@ -103,6 +111,6 @@ Have a dream feature or a wild wrestling story in mind? [Start here.](COMMUNITY.
 
 **Every Match Matters. Every Decision Echoes. Every Legacy Is Earned.**
 
-*RINGBOUND is in active development. No public release date or public playtest has been announced.*
+*RINGBOUND is in active development. Our published timing windows are provisional forecasts, not confirmed dates. No tester applications are open.*
 
 </div>
