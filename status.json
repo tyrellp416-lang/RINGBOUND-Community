@@ -31,5 +31,36 @@
     "discord": "https://discord.gg/RkmATFsk",
     "reddit": "https://www.reddit.com/r/ringboundmmo/"
   },
-  "disclaimer": "RINGBOUND is in development. No public release date or public playtest has been announced. Updates are carefully reviewed before publication."
+  "disclaimer": "RINGBOUND is in development. Published 2027–2029/2030 dates are provisional planning windows, not confirmed launches or signup dates. No public testing is available; applications are closed. Updates are reviewed before publication.",
+  "timeline_forecast": {
+    "as_of": "2026-10-18",
+    "type": "provisional_planning_windows",
+    "applications_open": false,
+    "private_alpha": {
+      "window": "2027-Q3",
+      "start": "2027-07",
+      "end": "2027-09",
+      "scope": "Small invite-only match-focused Android testing"
+    },
+    "expanded_private_testing": {
+      "window": "2028-Q1_to_Q2",
+      "start": "2028-01",
+      "end": "2028-06",
+      "scope": "Controlled career and connected-world testing"
+    },
+    "public_testing": {
+      "window": "2028-Q3_to_Q4",
+      "start": "2028-07",
+      "end": "2028-12",
+      "scope": "Wider access subject to readiness and security gates"
+    },
+    "version_1_0": {
+      "window": "2029-Q4",
+      "start": "2029-10",
+      "end": "2029-12",
+      "possible_slip": "2030",
+      "scope": "Production-ready connected wrestling universe"
+    },
+    "note": "Targets are estimates, not confirmed dates. Testing applications and signups are closed. Each phase depends on passing readiness checks."
+  }
 }
