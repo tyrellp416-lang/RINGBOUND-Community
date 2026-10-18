@@ -1,27 +1,26 @@
-# Public Development Update Policy
+# Keeping RINGBOUND's Public Updates Clear and Safe
 
-This repository is RINGBOUND's public information hub. It has **no shared Git history** with the private game repository.
+This is RINGBOUND's public community home. It is separate from the private repository where the game is developed.
 
-## Approved for public updates
+## What belongs here?
 
-- Player-friendly game descriptions and feature overviews
-- Official, approved images and screenshots
-- Curated milestone summaries and development status
-- Roadmap themes, community announcements, and official social links
+Player-friendly news, approved screenshots and artwork, clear descriptions of planned features, community links, and development updates that have been checked before publication.
 
-## Keep private
+## What stays behind the scenes?
 
-- Game source code, internal build artifacts, and proprietary algorithms
-- Internal commits, diffs, branch names, pull requests, or raw logs
-- Security-sensitive details, tokens, credentials, and private links
-- Unreleased builds, internal diagnostics, raw test datasets, or personal information
+- Game source code and private game files
+- Private development discussions and unfinished internal work
+- Login details, security keys, and personal information
+- Internal test files, unpublished builds, and behind-the-scenes logs
 
-## Publication checklist
+## Before publishing an update
 
-1. Draft public updates independently. Never mirror or fork the private repository.
-2. Check all text, images, filenames, and file metadata for sensitive details.
-3. Confirm that statements about completion or release are supported by qualified results.
-4. Avoid automatic synchronization from private issue trackers or commit streams.
-5. Publish only reviewed, player-friendly content.
+1. Write it for players rather than copying from the private project.
+2. Check that text, links, images, and attachments are safe to make public.
+3. Describe a feature as **planned**, **in development**, or **available** accurately.
+4. Never imply a test or release date has been announced unless it has.
+5. Keep this repository independent. Do not import the private project's history.
 
-The website may use `status.json` as a curated source for development information. Changes to that file represent **approved public updates**, not a real-time feed of private engineering activity.
+The website's `status.json` is a carefully reviewed public snapshot. It is not a live window into private development.
+
+*This page provides publication guidance for RINGBOUND's maintainers.*
