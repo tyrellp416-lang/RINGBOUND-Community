@@ -4,32 +4,32 @@
   "updated_at": "2026-10-18",
   "stage": "In development",
   "release_date": null,
-  "development_focus": "Deeper, more believable wrestling matches",
+  "development_focus": "Making every match feel like a story worth telling",
   "areas": [
     {
-      "name": "Core match simulation",
+      "name": "The Match Experience",
       "status": "In active development and testing"
     },
     {
-      "name": "Move identity and finishing behavior",
-      "status": "Internal research and testing"
+      "name": "Moves & Finishing Moments",
+      "status": "In internal development and testing"
     },
     {
-      "name": "Outside-the-ring action",
-      "status": "Internal development and testing"
+      "name": "Outside the Ropes",
+      "status": "In internal development and testing"
     },
     {
-      "name": "Wrestler careers and progression",
-      "status": "Design and foundation work"
+      "name": "Your Wrestling Career",
+      "status": "Design and early foundations"
     },
     {
-      "name": "Promotions and living history",
-      "status": "Long-term development direction"
+      "name": "Promotions & Living History",
+      "status": "Long-term vision"
     }
   ],
   "links": {
     "discord": "https://discord.gg/RkmATFsk",
     "reddit": "https://www.reddit.com/r/ringboundmmo/"
   },
-  "disclaimer": "Public updates are manually curated. Internal experiments are not completed feature announcements."
+  "disclaimer": "RINGBOUND is in development. No public release date or public playtest has been announced. Updates are carefully reviewed before publication."
 }
