@@ -1,21 +1,43 @@
-# Welcome to the RINGBOUND community
+# 🎟️ Welcome to Ringside
 
-Whether you're here for the wrestling, the storytelling, or the idea of building a career in a world that remembers it, you're welcome ringside.
+### You've found RINGBOUND early. Pull up a chair.
 
-## Where to hang out
+RINGBOUND is being built for people who love wrestling stories: the monster heel who rules for years, the underdog nobody believed in, the bitter rivalry that outlasts a championship, and the moment an unknown rookie becomes a name everybody knows.
 
-- **Discord:** https://discord.gg/RkmATFsk
-- **Reddit:** https://www.reddit.com/r/ringboundmmo/
+If that sounds like your kind of wrestling, we'd love to hear from you.
 
-## What we'd love to hear
+## 💬 Where the crowd gathers
 
-- What would make a wrestling career feel rewarding over months and years?
-- Which match moments deserve to become part of a wrestler's lasting history?
-- What kinds of rivalries, promotions, and championships would you enjoy?
-- What would make text-based match storytelling exciting to follow?
+### [Join the RINGBOUND Discord](https://discord.gg/RkmATFsk)
 
-Be constructive, respect other community members, and remember that concepts shared during development may evolve.
+The best place to meet fellow future players, follow announcements, and talk about the world we're building.
 
-## Development questions
+### [Join r/ringboundmmo](https://www.reddit.com/r/ringboundmmo/)
 
-Public news will appear in this repository and community channels as features are ready to discuss. Please avoid treating internal research, unannounced dates, or speculative feature lists as confirmed release plans.
+Share your dream wrestling stories, discuss features, and keep up with the project.
+
+## 🎤 Start the conversation
+
+A few questions we'd genuinely love your thoughts on:
+
+- **What's the greatest wrestling rivalry you've ever imagined?**
+- **Would you rather hold the championship for 500 days or pull off the upset of a lifetime?**
+- **What kind of wrestler would you create first?**
+- **What would make a wrestling world feel alive between matches?**
+- **Which details make a match feel real to you?**
+
+We want a community full of ideas, opinions, constructive criticism, and a shared love of wrestling. Respect other members and welcome people with different tastes.
+
+## 🥊 Want to help test the game?
+
+We're interested in hearing from future playtesters, including people who know every wrestling hold and people who've never played a wrestling sim before.
+
+**Public testing is not open or scheduled yet.** [Here's how to follow future testing news.](PLAYTESTING.md)
+
+## ❓ Curious about the game?
+
+Our [quick FAQ](FAQ.md) answers the essentials without developer-speak.
+
+---
+
+**Every Match Matters. Every Decision Echoes. Every Legacy Is Earned.**
