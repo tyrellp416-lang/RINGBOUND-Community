@@ -9,6 +9,19 @@ Every great wrestling world starts somewhere. This is where we share the moments
 ---
 
 ## October 18, 2026
+### 📅 Sharing our first long-range release outlook
+
+We've taken another look at how much RINGBOUND still needs before players can experience the full living universe. We want future testers to know what we're aiming for, without promising dates that the game hasn't earned.
+
+Our current **provisional targets** are a small **private match alpha in Q3 2027**, expanded private career/world tests in **Q1–Q2 2028**, **public testing in Q3–Q4 2028**, and **RINGBOUND 1.0 in Q4 2029**, with a possible slip into 2030.
+
+These windows are **estimates**, subject to gameplay quality, security and reliability gates. **Applications are closed.** We'll share changes openly as evidence arrives.
+
+[📅 Read the full timeline](TIMELINE.md) · [🎟️ Learn about future testing](PLAYTESTING.md)
+
+---
+
+## October 18, 2026
 ### 🥊 Building the moments that make a match
 
 **The focus: more believable wrestling, more meaningful decisions.**
@@ -29,7 +42,7 @@ Right now, our internal development and testing is exploring how wrestlers:
 
 A match becomes memorable when you can understand **why it unfolded the way it did**. We want victories to feel earned, upsets to feel possible, and the story of a bout to be worth talking about afterward.
 
-**Where things stand:** This is ongoing internal work. We're still testing and refining it, and we're not announcing a public build or test date yet.
+**Where things stand:** This is ongoing internal work. We're still testing and refining it. Our published timeline offers provisional windows, but no public build or confirmed test date is available yet.
 
 ---
 
