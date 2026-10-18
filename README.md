@@ -1,6 +1,8 @@
 <div align="center">
 
-# 🥊 RINGBOUND
+<img src="assets/ringbound-official-icon.jpg" alt="RINGBOUND official red-and-gold wrestling ring emblem" width="190" />
+
+# RINGBOUND
 ### THE LIVING WRESTLING UNIVERSE
 
 **Your name is unknown. Your next match could change that.**
