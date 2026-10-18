@@ -10,7 +10,16 @@ Maybe you're the kind of fan who notices when a pinfall feels wrong. Maybe you w
 
 **RINGBOUND is in active development.**
 
-There is **no public playtest available, no announced test date, and no open tester application** right now. We want to share a build when there is a meaningful experience worth evaluating.
+There is **no playable public test and no open tester application** right now. We want to share a build when there is a meaningful experience worth evaluating.
+
+Our current **non-binding forecasts** are:
+
+- **Private invite-only match alpha:** July–September 2027.
+- **Expanded private career/world testing:** January–June 2028.
+- **Public testing:** July–December 2028.
+- **RINGBOUND 1.0:** October–December 2029 target, with delays into 2030 possible.
+
+[📅 Read the full timeline and testing readiness conditions](TIMELINE.md). These windows are estimates, not dates when signups will open.
 
 ## How to hear about future opportunities
 
@@ -18,7 +27,7 @@ There is **no public playtest available, no announced test date, and no open tes
 2. **[Follow r/ringboundmmo](https://www.reddit.com/r/ringboundmmo/)** for discussion and project updates.
 3. **[Keep an eye on the Ringside Report](DEVLOG.md)** as development progresses.
 
-If and when a public test is announced, we'll explain how to participate, what devices are supported, and what feedback we're looking for. Joining the community does not guarantee a playtest invitation.
+When a test is formally announced, we'll explain how to participate, what devices are supported, and what feedback we're looking for. Joining the community does not guarantee a playtest invitation.
 
 ## What makes a great tester?
 
