@@ -24,17 +24,18 @@ The planned career experience puts emphasis on being booked, preparing, competin
 
 ## Is there a public test I can play?
 
-**Not yet.** No public playtest or public test date has been announced. [Follow future testing news here.](PLAYTESTING.md)
+**Not yet.** We're aiming for small invite-only tests in **Q3 2027**, followed by public testing in **Q3–Q4 2028**, if the game is ready. These are estimates. **Applications remain closed.** [Read the testing and release outlook.](TIMELINE.md)
 
 ## When is RINGBOUND coming out?
 
-**There is no announced public release date.** We're concentrating on making the underlying experience feel right before making promises.
+Our current **1.0 target is Q4 2029**, with possible delays into 2030. This is a **planning forecast, not a guaranteed or scheduled date**. [See what has to happen first.](TIMELINE.md)
 
 ## Where can I keep up or share ideas?
 
 - [RINGBOUND Discord](https://discord.gg/RkmATFsk)
 - [r/ringboundmmo](https://www.reddit.com/r/ringboundmmo/)
 - [Roadmap](ROADMAP.md)
+- [Testing and release timeline](TIMELINE.md)
 - [Ringside Report](DEVLOG.md)
 
 ---
