@@ -32,7 +32,7 @@ We want a community full of ideas, opinions, constructive criticism, and a share
 
 We're interested in hearing from future playtesters, including people who know every wrestling hold and people who've never played a wrestling sim before.
 
-**Public testing is not open or scheduled yet.** [Here's how to follow future testing news.](PLAYTESTING.md)
+**The [tester portal](https://ringbound-testers.vercel.app) is now online with applications closed. Public testing is not open or scheduled yet.** [Here's how to follow future testing news.](PLAYTESTING.md)
 
 ## ❓ Curious about the game?
 
