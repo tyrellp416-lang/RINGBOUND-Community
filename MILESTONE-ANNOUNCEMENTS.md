@@ -8,12 +8,20 @@ milestone isn't called complete until it has actually passed its checks.
 
 ## The public milestone feed
 
-The machine-readable [milestones.json](milestones.json) provides Sentinel
-with the list of approved milestone announcements.
+The machine-readable [milestones.json](milestones.json) gives Sentinel
+its reviewed development history and future milestone announcements.
 
-The feed starts **empty**. This is intentional. It does not imply that
-development hasn't happened; it means no numbered milestone completion has
-yet been explicitly approved for the tracker.
+The feed now includes three **earlier, completed internal development
+chapters**, written for future players:
+
+- **0.2.7 | Fight IQ:** Giving wrestlers better instincts in the ring
+- **0.2.8 | Match DNA:** Helping every matchup develop its own character
+- **0.2.9 | Crimson Canvas:** Making the hard-fought moments easier to follow
+
+You can [read their stories here](MILESTONE-HISTORY.md). These milestones
+represent meaningful development progress, **not public game releases**.
+**0.2.10 Beyond the Ropes is still in development** and is not listed
+as a completed milestone.
 
 When a RINGBOUND version is ready for public discussion, an editor adds a
 record with:
@@ -25,9 +33,13 @@ record with:
 - The real completion date, a clear description, and why players should care
 - A link to the already-public development journal or roadmap
 
-A completed and approved item can then appear as **one comment** beneath
-the tracker thread. Editing an already-reported milestone does not create
-a flood of duplicates.
+A completed and approved item can appear as **one comment** beneath the
+development thread. The three earlier chapters have `historical: true`
+and can be added manually with **BACKFILL**, one chapter per confirmation.
+They are never posted by automatic updates. Newly completed milestones
+can be shared separately after their public approval.
+
+Editing an already-reported milestone does not create duplicates.
 
 ## What this does *not* mean
 
