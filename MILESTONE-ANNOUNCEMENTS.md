@@ -1,7 +1,6 @@
 # 📣 How RINGBOUND's Development Tracker Works
 
-The [RINGBOUND Sentinel](https://github.com/tyrellp416-lang/RINGBOUND-Sentinel)
-development tracker is designed to keep major progress updates together in
+The RINGBOUND Sentinel development tracker is designed to keep major progress updates together in
 one Reddit discussion thread.
 
 **The rules are simple:** internal progress isn't an announcement, and a
@@ -37,26 +36,24 @@ a flood of duplicates.
 - A forecast is not a guaranteed date.
 - Tester applications stay closed until explicitly announced elsewhere.
 
-## Future public milestone entry (illustrative only)
+## Example of an unapproved milestone entry
 
-This example is **not an announcement that 0.2.10 is finished**:
+This example is **not a completion announcement** and cannot trigger a milestone comment:
 
 ```json
 {
   "id": "0.2.10",
   "version": "0.2.10",
   "name": "Beyond the Ropes",
-  "state": "complete",
-  "public_release_approved": true,
-  "completed_on": "2026-10-19",
-  "summary": "A reviewed summary of the actual completed milestone, at least 25 characters.",
-  "player_impact": "What future players will actually notice, at least 20 characters.",
-  "source_url": "https://github.com/tyrellp416-lang/RINGBOUND-Community/blob/main/DEVLOG.md"
+  "state": "in_progress",
+  "public_release_approved": false
 }
 ```
 
-Only add a real completion record after it is confirmed, has public-safe
-language and has an approved public source to link.
+Only switch a record to `state: "complete"` and
+`public_release_approved: true` once completion is qualified and the
+player-friendly summary, player impact, completion date, and public source
+link are included.
 
 Until then, follow the [Ringside Report](DEVLOG.md) for development stories
 and the [Roadmap](ROADMAP.md) for where we're heading.
