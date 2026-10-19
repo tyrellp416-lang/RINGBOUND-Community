@@ -10,8 +10,8 @@
       "public_release_approved": true,
       "historical": true,
       "completed_on": "2026-09-29",
-      "summary": "We laid the groundwork for wrestlers to make more believable decisions in the ring. Different approaches can be weighed against the situation instead of relying on the same answer every time. This was a step toward smarter matches, not a promise that every planned behavior is already active.",
-      "player_impact": "Over time, you should see contests where wrestlers know when to push, defend, or search for a finish. Wins and losses should feel earned through decisions as well as ability.",
+      "summary": "Fight IQ established smarter decision-making during matches, including work on when wrestlers press an advantage, defend themselves, and look for match-ending opportunities. We also refined safeguards against one wrestler building unstoppable momentum and improved how finishers can bring a match to a legitimate end. This is an early engine milestone, not a claim that every planned tactical behavior is live.",
+      "player_impact": "The aim is for a wrestler who is ahead to behave differently from one struggling to survive. Finishers should feel dangerous without making every match predictable, and defensive decisions should help prevent matches from becoming one-sided loops.",
       "source_url": "https://github.com/tyrellp416-lang/RINGBOUND-Community/blob/main/MILESTONE-HISTORY.md"
     },
     {
@@ -22,8 +22,8 @@
       "public_release_approved": true,
       "historical": true,
       "completed_on": "2026-09-30",
-      "summary": "We built better ways to understand the rhythm and identity of a wrestling match. Match DNA helps us see how different styles and situations shape the action. Some experimental style features were deliberately kept off while we tested them.",
-      "player_impact": "A technical contest and a high-energy brawl should not read like the same match. This foundation helps us build more variety without letting one style become unfairly dominant.",
+      "summary": "Match DNA introduced a way to describe and evaluate how a contest unfolds: its pace, key moments, and the different choices that give it character. We built supporting match-analysis and presentation foundations. Experimental lane affinity and adaptation features were intentionally left switched off while their balance was evaluated.",
+      "player_impact": "A careful technical contest should develop differently from an aggressive brawl, and the written match should make those differences easier to recognize. This milestone strengthened the foundation for variety; it did not activate the experimental style systems.",
       "source_url": "https://github.com/tyrellp416-lang/RINGBOUND-Community/blob/main/MILESTONE-HISTORY.md"
     },
     {
@@ -34,8 +34,8 @@
       "public_release_approved": true,
       "historical": true,
       "completed_on": "2026-10-02",
-      "summary": "We improved the way a match tells its story, especially when wrestlers take punishment. Clearer written action, meaningful wounds, and better handling of referee stoppages came together in a tested internal milestone.",
-      "player_impact": "When someone fights through danger, gets hurt, or the referee has to step in, the moment should make sense. The goal is a match you can picture, follow, and remember.",
+      "summary": "Crimson Canvas improved the match's written presentation and introduced wound-aware storytelling. The engine can connect damage and wounds to what spectators read, rather than describing every exchange as if both wrestlers were fresh. Referee-stoppage handling was also refined and tested as part of the internal milestone.",
+      "player_impact": "When a wrestler absorbs punishment, the commentary can acknowledge the developing damage. A dangerous exchange or referee intervention should have a visible reason in the match story, making the action easier to follow and its consequences more believable.",
       "source_url": "https://github.com/tyrellp416-lang/RINGBOUND-Community/blob/main/MILESTONE-HISTORY.md"
     }
   ]
