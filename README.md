@@ -95,7 +95,9 @@ We're building a community of wrestling fans, storytellers, and curious future p
 
 **Interested in testing RINGBOUND when opportunities become available?** Come meet the community and follow the announcements. Our [provisional release outlook](TIMELINE.md) explains the expected windows; applications are still closed.
 
-**[🥊 How to follow future playtests](PLAYTESTING.md)**
+**[🥊 Visit the live tester portal](https://ringbound-testers.vercel.app)**
+
+**[🎟️ How to follow future playtests](PLAYTESTING.md)**
 
 **[💬 Join the RINGBOUND Discord](https://discord.gg/RkmATFsk)**
 
