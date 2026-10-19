@@ -6,6 +6,10 @@ Maybe you're the kind of fan who notices when a pinfall feels wrong. Maybe you w
 
 **Those perspectives could all be valuable when RINGBOUND is ready for outside testing.**
 
+## Explore the official tester portal
+
+The [**RINGBOUND Tester Portal**](https://ringbound-testers.vercel.app) is now live. You can explore the future application experience, but **submissions remain closed** and no personal details are being collected. Join our Discord for recruitment news.
+
 ## Where are we now?
 
 **RINGBOUND is in active development.**
