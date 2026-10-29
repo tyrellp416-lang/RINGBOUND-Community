@@ -81,7 +81,7 @@ We're currently focused on making the matches themselves feel believable and exc
 
 ## 📅 When can I play?
 
-We're planning our first **small, invite-only external match tests for Q3 2027**, broader **public testing for Q3–Q4 2028**, and a **1.0 release target in Q4 2029**. Expanded private career/world testing is provisionally expected in **Q1–Q2 2028**.
+Our **revised provisional planning windows (October 29, 2026)** are **Q4 2028–Q2 2029** for invite-only match testing, **Q1–Q3 2030** for private career/world testing, **Q2–Q4 2031** for public connected testing, and **H2 2032** for the working RINGBOUND 1.0 target. These are not announced launch dates; a delay into **2033 or later** is possible.
 
 These are **estimates, not confirmed dates**. Features must be genuinely ready before each stage opens. **Tester applications are currently closed.**
 
