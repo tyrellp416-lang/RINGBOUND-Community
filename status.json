@@ -1,7 +1,7 @@
 {
   "project": "RINGBOUND",
   "tagline": "The Living Wrestling Universe",
-  "updated_at": "2026-10-18",
+  "updated_at": "2026-10-29",
   "stage": "In development",
   "release_date": null,
   "development_focus": "Making every match feel like a story worth telling",
@@ -31,36 +31,37 @@
     "discord": "https://discord.gg/RkmATFsk",
     "reddit": "https://www.reddit.com/r/ringboundmmo/"
   },
-  "disclaimer": "RINGBOUND is in development. Published 2027–2029/2030 dates are provisional planning windows, not confirmed launches or signup dates. No public testing is available; applications are closed. Updates are reviewed before publication.",
+  "disclaimer": "Revised planning estimates: invite-only match testing Q4 2028-Q2 2029, private career/world testing Q1-Q3 2030, public connected testing Q2-Q4 2031 and working 1.0 H2 2032. 2033+ delay is possible. No confirmed releases; applications remain closed.",
   "timeline_forecast": {
-    "as_of": "2026-10-18",
+    "as_of": "2026-10-29",
     "type": "provisional_planning_windows",
     "applications_open": false,
+    "release_announced": false,
     "private_alpha": {
-      "window": "2027-Q3",
-      "start": "2027-07",
-      "end": "2027-09",
-      "scope": "Small invite-only match-focused Android testing"
+      "window": "2028-Q4_to_2029-Q2",
+      "start": "2028-10",
+      "end": "2029-06",
+      "scope": "Small invite-only match-focused Android testing; not a full MMO"
     },
     "expanded_private_testing": {
-      "window": "2028-Q1_to_Q2",
-      "start": "2028-01",
-      "end": "2028-06",
-      "scope": "Controlled career and connected-world testing"
+      "window": "2030-Q1_to_Q3",
+      "start": "2030-01",
+      "end": "2030-09",
+      "scope": "Controlled career, saved progress and early promotion/world testing; no guaranteed human PvP"
     },
     "public_testing": {
-      "window": "2028-Q3_to_Q4",
-      "start": "2028-07",
-      "end": "2028-12",
-      "scope": "Wider access subject to readiness and security gates"
+      "window": "2031-Q2_to_Q4",
+      "start": "2031-04",
+      "end": "2031-12",
+      "scope": "Connected test subject to security, server, match integrity, moderation and support"
     },
     "version_1_0": {
-      "window": "2029-Q4",
-      "start": "2029-10",
-      "end": "2029-12",
-      "possible_slip": "2030",
-      "scope": "Production-ready connected wrestling universe"
+      "window": "2032-H2",
+      "start": "2032-07",
+      "end": "2032-12",
+      "possible_slip": "2033_or_later",
+      "scope": "Production-ready supportable connected wrestling world"
     },
-    "note": "Targets are estimates, not confirmed dates. Testing applications and signups are closed. Each phase depends on passing readiness checks."
+    "note": "No announced dates, applications or public gameplay access. Late 2031 accelerated possibility is not the working forecast. All gates remain binding."
   }
 }
