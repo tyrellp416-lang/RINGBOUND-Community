@@ -18,10 +18,10 @@ There is **no playable public test and no open tester application** right now. W
 
 Our current **non-binding forecasts** are:
 
-- **Private invite-only match alpha:** July–September 2027.
-- **Expanded private career/world testing:** January–June 2028.
-- **Public testing:** July–December 2028.
-- **RINGBOUND 1.0:** October–December 2029 target, with delays into 2030 possible.
+- **Private invite-only match alpha:** October 2028–June 2029 (Q4 2028–Q2 2029).
+- **Expanded private career/world testing:** January–September 2030 (Q1–Q3), without a promise of human PvP.
+- **Public connected testing:** April–December 2031 (Q2–Q4), if secure online and support gates qualify.
+- **RINGBOUND 1.0 working target:** July–December 2032 (H2), with delays into 2033 or later possible.
 
 [📅 Read the full timeline and testing readiness conditions](TIMELINE.md). These windows are estimates, not dates when signups will open.
 
