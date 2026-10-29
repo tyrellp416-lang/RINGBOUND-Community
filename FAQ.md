@@ -24,11 +24,11 @@ The planned career experience puts emphasis on being booked, preparing, competin
 
 ## Is there a public test I can play?
 
-**Not yet.** We're aiming for small invite-only tests in **Q3 2027**, followed by public testing in **Q3–Q4 2028**, if the game is ready. These are estimates. **Applications remain closed.** [Read the testing and release outlook.](TIMELINE.md)
+**Not yet.** Our revised planning window for a small invite-only match alpha is **Q4 2028–Q2 2029**; later public connected testing is provisionally **Q2–Q4 2031**, only if ready. These are estimates, not registration dates. **Applications remain closed.** [Read the testing and release outlook.](TIMELINE.md)
 
 ## When is RINGBOUND coming out?
 
-Our current **1.0 target is Q4 2029**, with possible delays into 2030. This is a **planning forecast, not a guaranteed or scheduled date**. [See what has to happen first.](TIMELINE.md)
+Our updated **1.0 working target is H2 2032**, with a real risk of slipping into **2033 or later**. This is a **planning forecast, not a guaranteed or scheduled date**. [See what has to happen first.](TIMELINE.md)
 
 ## Where can I keep up or share ideas?
 
