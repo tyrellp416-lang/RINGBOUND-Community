@@ -12,10 +12,10 @@ This is a look at our development journey. We've also published **provisional te
 
 | When we're aiming | What we're working toward |
 | --- | --- |
-| **Q3 2027** | First small, invite-only private match alpha |
-| **Q1–Q2 2028** | Expanded private career and shared-world testing |
-| **Q3–Q4 2028** | Public testing with meaningful connected gameplay |
-| **Q4 2029** | RINGBOUND 1.0 production release target, with 2030 contingency |
+| **Q4 2028–Q2 2029** | First small, invite-only private match alpha |
+| **Q1–Q3 2030** | Expanded private career and early world testing; not necessarily live human PvP |
+| **Q2–Q4 2031** | Public connected testing only after security, persistence, integrity and support qualification |
+| **H2 2032** | Working 1.0 target; delays into 2033 or later remain possible |
 
 **These are planning estimates, not scheduled launches.** We'll open each stage only when it's ready. **Applications remain closed.**
 
@@ -34,6 +34,7 @@ Before a wrestler can become a legend, stepping into the ring has to mean someth
 | **A real fight for the finish** | A desperate pin, a smart submission, or a count-out should have a believable reason behind it. |
 | **More than four corners** | Ring ropes, the apron, and the ringside floor can create danger and opportunity. |
 | **A referee who matters** | Counts, rope breaks, and rules should be part of the action, not an afterthought. |
+| **Real wrestling identity and strategy** | Editable wrestler creation, learned moves, chain wrestling and scouting-informed Auto Gameplan are approved future designs, not currently public gameplay. |
 
 These areas are being developed and tested internally. **They are not a list of features available to the public today.**
 
@@ -75,4 +76,4 @@ We share player-friendly updates when there's something meaningful to tell you. 
 
 ---
 
-*Last updated: October 18, 2026. RINGBOUND is in active development; priorities and planned features may change.*
+*Forecast updated October 29, 2026. These are planning targets, not confirmed launches, tester openings or promised builds.*
