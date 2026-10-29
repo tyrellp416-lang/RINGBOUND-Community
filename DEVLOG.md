@@ -8,6 +8,21 @@ Every great wrestling world starts somewhere. This is where we share the moments
 
 ---
 
+## October 29, 2026
+### 📅 A revised outlook, grounded in the work still ahead
+
+We've refreshed our estimates after reviewing the actual match-development milestone, remaining wrestler and combat depth, career systems, promotions and secure online-world requirements.
+
+Our revised **provisional windows** are: small invite-only match alpha **Q4 2028–Q2 2029**, expanded private career/world testing **Q1–Q3 2030**, public connected testing **Q2–Q4 2031**, and a working RINGBOUND 1.0 release target in **H2 2032**. A move into 2033 or later remains possible.
+
+The qualified internal match foundation is real, but later features are not yet released. We want to make wrestling feel convincing, then make careers and the world reliably remember what happened, before opening secure online competition.
+
+**These dates are planning forecasts, not an announcement of playable builds or applications. Applications remain closed.** The dated October 18 forecast below is preserved as an earlier, now-superseded estimate.
+
+[📅 Updated timeline](TIMELINE.md) · [🎟️ Playtesting](PLAYTESTING.md)
+
+---
+
 ## October 18, 2026
 ### 📅 Sharing our first long-range release outlook
 
