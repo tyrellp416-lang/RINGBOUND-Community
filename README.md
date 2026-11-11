@@ -81,7 +81,7 @@ We're currently focused on making the matches themselves feel believable and exc
 
 ## 📅 When can I play?
 
-Our **revised provisional planning windows (October 29, 2026)** are **Q4 2028–Q2 2029** for invite-only match testing, **Q1–Q3 2030** for private career/world testing, **Q2–Q4 2031** for public connected testing, and **H2 2032** for the working RINGBOUND 1.0 target. These are not announced launch dates; a delay into **2033 or later** is possible.
+Our **November 11, 2026 AI-first scenario update** reflects Claude Code and Codex as the project's two AI developers and the owner as the decision/handoff lead. The **working planning scenarios** are **2028** for invite-only match testing, **2029–2030** for private career/world testing, **2030–2032** for public connected testing, and **2031–2033** for connected RINGBOUND 1.0. Accelerated and delayed scenarios, evidence limitations and readiness requirements are in [the full timeline](TIMELINE.md). **No release or test invitation has been announced.**
 
 These are **estimates, not confirmed dates**. Features must be genuinely ready before each stage opens. **Tester applications are currently closed.**
 
