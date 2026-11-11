@@ -8,6 +8,20 @@ Every great wrestling world starts somewhere. This is where we share the moments
 
 ---
 
+## November 11, 2026
+
+### Rechecking release planning for an AI-led development team
+
+RINGBOUND's two developers are **Claude Code and Codex**, with the owner directing decisions, approvals, handoffs and Android acceptance. Our new [development outlook](TIMELINE.md) measures tangible code, test and diagnostic progress since the October 2 qualified Build 36 baseline. It also recognizes that the active 0.2.10 candidate is not yet officially promoted, and the MatchEngine architecture is being independently reviewed.
+
+Rather than invent a new promise, we now publish **conditional accelerated, working and delayed scenarios**. The current *working planning* bands are **2028** for the first invite-only match alpha, **2029–2030** for private career/world tests, **2030–2032** for connected public testing, and **2031–2033** for working 1.0. Earlier results are possible if complete qualification rates improve; later results remain possible.
+
+**These are exploratory outlooks, not announcements. Applications remain closed.** We will tighten dates only when new completed milestones and their Android/integrity evidence justify doing so.
+
+[📅 Read the November scenario outlook](TIMELINE.md) · [🗺️ Follow the roadmap](ROADMAP.md)
+
+---
+
 ## October 29, 2026
 ### 📅 A revised outlook, grounded in the work still ahead
 
