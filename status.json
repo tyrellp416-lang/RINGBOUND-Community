@@ -1,7 +1,7 @@
 {
   "project": "RINGBOUND",
   "tagline": "The Living Wrestling Universe",
-  "updated_at": "2026-10-29",
+  "updated_at": "2026-11-11",
   "stage": "In development",
   "release_date": null,
   "development_focus": "Making every match feel like a story worth telling",
@@ -31,37 +31,45 @@
     "discord": "https://discord.gg/RkmATFsk",
     "reddit": "https://www.reddit.com/r/ringboundmmo/"
   },
-  "disclaimer": "Revised planning estimates: invite-only match testing Q4 2028-Q2 2029, private career/world testing Q1-Q3 2030, public connected testing Q2-Q4 2031 and working 1.0 H2 2032. 2033+ delay is possible. No confirmed releases; applications remain closed.",
+  "disclaimer": "AI-first scenario reforecast (November 11, 2026). Working planning scenarios: invite-only match testing 2028; private career/world testing 2029–2030; public connected testing 2030–2032; working 1.0 2031–2033. These are conditional scenarios with accelerated and delayed alternatives, not confirmed launch dates. Applications remain closed.",
   "timeline_forecast": {
-    "as_of": "2026-10-29",
+    "as_of": "2026-11-11",
     "type": "provisional_planning_windows",
+    "basis": "Claude Code and Codex are the two AI developers. Owner handles gameplay decisions, approvals and handoffs. GitHub shows substantial source/test/research throughput since qualified Build 36, but no newly promoted gameplay milestone in the measured 40-day window.",
     "applications_open": false,
     "release_announced": false,
     "private_alpha": {
-      "window": "2028-Q4_to_2029-Q2",
-      "start": "2028-10",
-      "end": "2029-06",
-      "scope": "Small invite-only match-focused Android testing; not a full MMO"
+      "window": "2028-working",
+      "start": "2028-01",
+      "end": "2028-12",
+      "accelerated": "2027-H2_to_2028-H1",
+      "downside": "2029_or_later",
+      "scope": "Small invite-only match-focused Android testing; may be offline and does not imply a connected MMO"
     },
     "expanded_private_testing": {
-      "window": "2030-Q1_to_Q3",
-      "start": "2030-01",
-      "end": "2030-09",
+      "window": "2029-2030-working",
+      "start": "2029-01",
+      "end": "2030-12",
+      "accelerated": "2028_to_2029",
+      "downside": "2031_or_later",
       "scope": "Controlled career, saved progress and early promotion/world testing; no guaranteed human PvP"
     },
     "public_testing": {
-      "window": "2031-Q2_to_Q4",
-      "start": "2031-04",
-      "end": "2031-12",
-      "scope": "Connected test subject to security, server, match integrity, moderation and support"
+      "window": "2030-2032-working",
+      "start": "2030-01",
+      "end": "2032-12",
+      "accelerated": "2029_to_2030",
+      "downside": "2032_or_later",
+      "scope": "Connected test requires authoritative server results, security, persistence, moderation and support"
     },
     "version_1_0": {
-      "window": "2032-H2",
-      "start": "2032-07",
-      "end": "2032-12",
-      "possible_slip": "2033_or_later",
-      "scope": "Production-ready supportable connected wrestling world"
+      "window": "2031-2033-working",
+      "start": "2031-01",
+      "end": "2033-12",
+      "accelerated": "2030_to_2031",
+      "possible_slip": "after_2033",
+      "scope": "Production-ready, trustworthy, supported connected wrestling world"
     },
-    "note": "No announced dates, applications or public gameplay access. Late 2031 accelerated possibility is not the working forecast. All gates remain binding."
+    "note": "Exploratory AI-first planning scenarios with low forecast confidence; earlier October 29 estimates are historical. No scheduled alpha, tester invitations, public launch, release authority or application access. Revisit after Issue #197 and verified milestone promotions."
   }
 }
