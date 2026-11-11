@@ -12,12 +12,12 @@ This is a look at our development journey. We've also published **provisional te
 
 | When we're aiming | What we're working toward |
 | --- | --- |
-| **Q4 2028–Q2 2029** | First small, invite-only private match alpha |
-| **Q1–Q3 2030** | Expanded private career and early world testing; not necessarily live human PvP |
-| **Q2–Q4 2031** | Public connected testing only after security, persistence, integrity and support qualification |
-| **H2 2032** | Working 1.0 target; delays into 2033 or later remain possible |
+| **2028 working scenario** (accelerated H2 2027–H1 2028; downside 2029+) | First small invite-only match alpha |
+| **2029–2030 working scenario** (accelerated 2028–2029; downside 2031+) | Expanded private career and early world testing; not necessarily live human PvP |
+| **2030–2032 working scenario** (accelerated 2029–2030; downside 2032+) | Public connected testing only after security, persistence, integrity and support qualification |
+| **2031–2033 working scenario** (accelerated 2030–2031; downside after 2033) | Connected 1.0, only after its full qualification gates |
 
-**These are planning estimates, not scheduled launches.** We'll open each stage only when it's ready. **Applications remain closed.**
+**These are conditional, low-confidence scenarios rather than scheduled launches.** Claude Code and Codex are the project's two AI developers; the owner makes product decisions and coordinates approvals/handoffs. Significant technical output has not yet established a dependable pace for fully qualified milestones. We'll open each stage only when it's ready. **Applications remain closed.**
 
 [🥊 See the full timeline and readiness requirements](TIMELINE.md)
 
@@ -70,10 +70,10 @@ We're designing toward:
 
 We share player-friendly updates when there's something meaningful to tell you. A feature being researched, developed, or internally tested doesn't automatically mean it's finished.
 
-**We have provisional windows for private testing, public testing and 1.0, but no confirmed launch or application opening date.** [View the release outlook.](TIMELINE.md)
+**We have exploratory planning scenarios for private testing, public testing and 1.0, but no confirmed launch or application opening date.** [View the release outlook.](TIMELINE.md)
 
 [📰 Read the development journal](DEVLOG.md) · [🎟️ Interested in playtesting?](PLAYTESTING.md) · [💬 Join Discord](https://discord.gg/RkmATFsk)
 
 ---
 
-*Forecast updated October 29, 2026. These are planning targets, not confirmed launches, tester openings or promised builds.*
+*AI-first scenario reforecast updated November 11, 2026. The October 29 forecast is retained as a historical planning baseline. These are planning possibilities, not confirmed launches, tester openings or promised builds.*
