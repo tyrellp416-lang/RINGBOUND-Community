@@ -16,12 +16,12 @@ The [**RINGBOUND Tester Portal**](https://ringbound-testers.vercel.app) is now l
 
 There is **no playable public test and no open tester application** right now. We want to share a build when there is a meaningful experience worth evaluating.
 
-Our current **non-binding forecasts** are:
+Our **November 11, 2026 conditional AI-first scenarios**, reflecting Claude Code and Codex as the developers, are:
 
-- **Private invite-only match alpha:** October 2028–June 2029 (Q4 2028–Q2 2029).
-- **Expanded private career/world testing:** January–September 2030 (Q1–Q3), without a promise of human PvP.
-- **Public connected testing:** April–December 2031 (Q2–Q4), if secure online and support gates qualify.
-- **RINGBOUND 1.0 working target:** July–December 2032 (H2), with delays into 2033 or later possible.
+- **Private invite-only match alpha:** 2028 working scenario (accelerated H2 2027–H1 2028; later 2029+).
+- **Expanded private career/world testing:** 2029–2030 working scenario; human PvP is not guaranteed.
+- **Public connected testing:** 2030–2032 working scenario, only if secure online and support gates qualify.
+- **RINGBOUND 1.0:** 2031–2033 working scenario, subject to full persistent-world qualification.
 
 [📅 Read the full timeline and testing readiness conditions](TIMELINE.md). These windows are estimates, not dates when signups will open.
 
