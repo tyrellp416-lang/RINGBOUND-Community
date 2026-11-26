@@ -6,7 +6,7 @@ This is a consumer-side contract and empty public archive. No reports have been 
 
 Private RINGFORGE, Codex and RINGSIDE records stay private. The existing private editorial workflow must construct a player-facing report, verify its facts and obtain explicit public publication approval before any bytes are transferred to the public repository. Never open a public PR containing raw private material, even as a draft. Boolean review/approval fields are assertions from a trusted publishing process, not cryptographic proof. A schema cannot establish that prose is safe or accurate.
 
-The intended flow is: private evidence -> private editorial draft -> independent review -> owner-authorized public projection -> validate and append -> approved public feed -> website/Discord. The publisher and website integration are deliberately not enabled here. Existing Discord publication state is unchanged.
+The intended flow is: private evidence -> private editorial draft -> independent review -> owner-authorized public projection -> validate and append -> approved public feed -> website/Discord. The V2 preview now includes a read-only website archive. It fetches only the public main-branch report feed; no private publisher or live publishing is enabled. Existing Discord publication state is unchanged.
 
 ## Contract
 
@@ -16,4 +16,4 @@ Normal publication is append-only; identical retries are no-ops. An amended clai
 
 Before any live integration: independent review of V1 and this contract, private publisher implementation and authorization, approval receipt binding to exact public payload, secret-free allowlisted projection, atomic publication/idempotency, rollback/withdrawal plan, and host/browser qualification. Never represent a report as published before the public feed write is confirmed. No extra AI call is required for the schema validator.
 
-Run `node --test development-watch/report-feed.test.cjs` in the repository. The test fixtures are synthetic and are never loaded by the website.
+Run `node --test development-watch/report-feed.test.cjs` in the repository. The test fixtures are synthetic and are never published. The browser test mocks the empty report archive. The preview hides all report cards if retrieval or validation fails; it rejects history rewrites during the current page session, and a reload may accept an editorially approved replacement history. The public feed itself remains empty. No live refresh or browser pass has been established.
