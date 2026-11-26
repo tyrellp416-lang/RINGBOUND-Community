@@ -1,0 +1,31 @@
+name: RINGSIDE Preview Qualification
+on:
+  pull_request:
+    branches: [main]
+    paths: ['development-watch/**', 'status.json', 'milestones.json', '.github/workflows/ringside-preview.yml']
+  push:
+    branches: ['ringside/development-watch-v1']
+    paths: ['development-watch/**', '.github/workflows/ringside-preview.yml']
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: ringside-preview-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  qualify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Data validation
+        run: node --test development-watch/validation.test.cjs
+      - name: Install pinned browser test dependency
+        run: npm install --no-save --package-lock=false --ignore-scripts playwright@1.51.1
+      - name: Install Chromium
+        run: npx playwright install --with-deps chromium
+      - name: Browser qualification with mocked public feeds
+        run: node development-watch/browser.test.cjs
