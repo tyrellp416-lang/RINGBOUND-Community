@@ -1,0 +1,26 @@
+'use strict';
+const test=require('node:test'),assert=require('node:assert/strict');
+const {validate,validateAppend}=require('./report-feed.cjs');
+const empty={schema_version:1,project:'RINGBOUND',updated_at:null,reports:[]};
+// Synthetic test fixture only. Never use as a published report.
+const record={id:'RINGSIDE-000001',published_on:'2026-11-29',coverage_start:'2026-11-22',coverage_end:'2026-11-29',title:'Synthetic example',summary:'Test fixture.',highlights:[{area:'match-experience',state:'internal-testing',title:'Synthetic test',player_impact:'Example only.'}],public_release_approved:true,independent_review_passed:true};
+const feed=(r=record)=>({...empty,updated_at:r.published_on,reports:[r]});
+test('empty feed valid',()=>assert.equal(validate(empty).reports.length,0));
+test('valid approved synthetic report',()=>assert.equal(validate(feed()).reports.length,1));
+test('reject unapproved',()=>assert.throws(()=>validate(feed({...record,public_release_approved:false})),/approval|Publication/));
+test('reject unreviewed',()=>assert.throws(()=>validate(feed({...record,independent_review_passed:false})),/review/));
+test('reject unknown report fields',()=>assert.throws(()=>validate(feed({...record,internal_log:'private'})),/fields/));
+test('reject unknown highlight fields',()=>assert.throws(()=>validate(feed({...record,highlights:[{...record.highlights[0],private_sha:'secret'}]})),/fields/));
+test('reject invalid coverage date',()=>assert.throws(()=>validate(feed({...record,coverage_end:'2026-02-30'})),/chronology/));
+test('reject coverage after publication',()=>assert.throws(()=>validate(feed({...record,coverage_end:'2026-12-01'})),/chronology/));
+test('reject unsupported state',()=>assert.throws(()=>validate(feed({...record,highlights:[{...record.highlights[0],state:'released'}]})),/highlight/));
+test('reject HTML',()=>assert.throws(()=>validate(feed({...record,title:'<script>'})),/content/));
+test('reject duplicate report',()=>assert.throws(()=>validate({...feed(),reports:[record,record]}),/ID/));
+test('reject wrong feed date',()=>assert.throws(()=>validate({...feed(),updated_at:'2026-11-30'}),/date/));
+test('append first report',()=>assert.equal(validateAppend(empty,feed()),1));
+test('identical replay idempotent',()=>assert.equal(validateAppend(feed(),feed()),0));
+test('append later report',()=>assert.equal(validateAppend(feed(),{...feed(),updated_at:'2026-12-06',reports:[record,{...record,id:'RINGSIDE-000002',published_on:'2026-12-06'}]}),1));
+test('reject deletion',()=>assert.throws(()=>validateAppend(feed(),empty),/delete/));
+test('reject rewrite',()=>assert.throws(()=>validateAppend(feed(),feed({...record,summary:'Changed.'})),/rewrite/));
+test('reject excessive summary',()=>assert.throws(()=>validate(feed({...record,summary:'x'.repeat(1001)})),/content/));
+test('reject non-empty feed with null date',()=>assert.throws(()=>validate({...feed(),updated_at:null}),/date/));
